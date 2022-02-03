@@ -1,5 +1,5 @@
-title = "strandead"  # From Git
-gitRepoUrl = "https://github.com/nightcycle/project" # From Git
+title = "rx"  # From Git
+gitRepoUrl = "https://github.com/nightcycle/rx" # From Git
 
 gitSourceBranch = "master"
 changelog = true
@@ -12,9 +12,9 @@ favicon = "/"
 
 # From git:
 organizationName = "nightcycle"
-projectName = "project"
+projectName = "rx"
 url = "https://nightcycle.github.io"
-baseUrl = "/strandead/"
+baseUrl = "/rx/"
 tagline = "because documenting your code is cool"
 
 [footer]
